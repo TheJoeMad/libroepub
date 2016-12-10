@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:animación 01-v2" name="animación 01-v2" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Tumult Hype]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="Default.png" width="1312" height="1463" />
+  
+  <require type="other" src="animación 01-v2.html" />
+<require type="folder" src="animación 01-v2.hyperesources" />
+<require type="other" src="animación 01-v2.hyperesources/5003E8-restorable.plist" />
+<require type="javascript" src="animación 01-v2.hyperesources/animación01v2_hype_generated_script.js" />
+<require type="image" src="animación 01-v2.hyperesources/hermanos.png" />
+<require type="image" src="animación 01-v2.hyperesources/hermanos1.png" />
+<require type="image" src="animación 01-v2.hyperesources/hermanos2.png" />
+<require type="image" src="animación 01-v2.hyperesources/hermanos3.png" />
+<require type="image" src="animación 01-v2.hyperesources/hermanos@2x.png" />
+<require type="javascript" src="animación 01-v2.hyperesources/HYPE-456.full.min.js" />
+<require type="javascript" src="animación 01-v2.hyperesources/HYPE-456.thin.min.js" />
+<require type="image" src="animación 01-v2.hyperesources/mama-ojos-cerrados.png" />
+<require type="image" src="animación 01-v2.hyperesources/mama-ojos-cerrados@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/mama_boca.png" />
+<require type="image" src="animación 01-v2.hyperesources/mama_boca@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/mama_ojoas.png" />
+<require type="image" src="animación 01-v2.hyperesources/mama_ojoas@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/mamanube.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojos-prota_derecha.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojos-prota_derecha@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojos-prota_izq.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojos-prota_izq@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojosprota_cerrados.png" />
+<require type="image" src="animación 01-v2.hyperesources/ojosprota_cerrados@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/pagina1_fondo1.png" />
+<require type="image" src="animación 01-v2.hyperesources/papa-nube.png" />
+<require type="image" src="animación 01-v2.hyperesources/papa_bicote.png" />
+<require type="image" src="animación 01-v2.hyperesources/papa_bicote@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/papa_cejas.png" />
+<require type="image" src="animación 01-v2.hyperesources/papa_cejas@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/prota-boca.png" />
+<require type="image" src="animación 01-v2.hyperesources/prota-boca@2x.png" />
+<require type="image" src="animación 01-v2.hyperesources/protgonista.png" />
+<require type="image" src="animación 01-v2.hyperesources/protgonista@2x.png" />
+<require type="image" src="Default.png" />
+
+
+  <content><![CDATA[
+    <div></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="1312" hidden="true"/>
+    <property name="default-height" defaultValue="1463" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>
+    <property name="use-chrome-frame" defaultValue="false" hidden="true"/>
+    <property name="chrome-frame-installer" defaultValue="" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="animación 01-v2.html" hidden="true"/>
+  </properties>
+
+</widget>

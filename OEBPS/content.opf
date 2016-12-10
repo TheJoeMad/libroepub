@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 11.0" />
+		<meta name="cover" content="Portada.jpg" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>Cuento_unapagina</dc:title>
+		<dc:date>2016-12-06T04:10:11Z</dc:date>
+		<dc:language>es-ES</dc:language>
+		<meta property="dcterms:modified">2016-12-06T04:10:11Z</meta>
+		<dc:identifier id="bookid">urn:uuid:BC594EE8-E82B-42BC-8BF6-1EBF5D05A0FC</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="Cuento_final-Justificado-UNAPAGINA-1" href="Cuento_final-Justificado-UNAPAGINA-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="TrebuchetMS-Italic.ttf" href="font/TrebuchetMS-Italic.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="TrebuchetMS.ttf" href="font/TrebuchetMS.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="config.xml" href="html/animacion_01_v2/config.xml" media-type="text/xml" />
+		<item id="animacio-n-01-v2.html" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.html" media-type="application/html" />
+		<item id="animacio-n-01-v2_oam.xml" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2_oam.xml" media-type="text/xml" />
+		<item id="Default.png" href="html/animacion_01_v2/Assets/Default.png" media-type="image/png" />
+		<item id="x5003E8-restorable.plist" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/5003E8-restorable.plist" media-type="application/octet-stream" />
+		<item id="animacio-n01v2_hype_generated_script.js" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/animacio%CC%81n01v2_hype_generated_script.js" media-type="text/javascript" />
+		<item id="hermanos.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/hermanos.png" media-type="image/png" />
+		<item id="hermanos1.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/hermanos1.png" media-type="image/png" />
+		<item id="hermanos2.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/hermanos2.png" media-type="image/png" />
+		<item id="hermanos3.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/hermanos3.png" media-type="image/png" />
+		<item id="hermanos-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/hermanos%402x.png" media-type="image/png" />
+		<item id="HYPE-456.full.min.js" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/HYPE-456.full.min.js" media-type="text/javascript" />
+		<item id="HYPE-456.thin.min.js" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/HYPE-456.thin.min.js" media-type="text/javascript" />
+		<item id="mama-ojos-cerrados.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama-ojos-cerrados.png" media-type="image/png" />
+		<item id="mama-ojos-cerrados-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama-ojos-cerrados%402x.png" media-type="image/png" />
+		<item id="mama_boca.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama_boca.png" media-type="image/png" />
+		<item id="mama_boca-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama_boca%402x.png" media-type="image/png" />
+		<item id="mama_ojoas.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama_ojoas.png" media-type="image/png" />
+		<item id="mama_ojoas-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mama_ojoas%402x.png" media-type="image/png" />
+		<item id="mamanube.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/mamanube.png" media-type="image/png" />
+		<item id="ojos-prota_derecha.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojos-prota_derecha.png" media-type="image/png" />
+		<item id="ojos-prota_derecha-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojos-prota_derecha%402x.png" media-type="image/png" />
+		<item id="ojos-prota_izq.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojos-prota_izq.png" media-type="image/png" />
+		<item id="ojos-prota_izq-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojos-prota_izq%402x.png" media-type="image/png" />
+		<item id="ojosprota_cerrados.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojosprota_cerrados.png" media-type="image/png" />
+		<item id="ojosprota_cerrados-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/ojosprota_cerrados%402x.png" media-type="image/png" />
+		<item id="pagina1_fondo1.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/pagina1_fondo1.png" media-type="image/png" />
+		<item id="papa-nube.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/papa-nube.png" media-type="image/png" />
+		<item id="papa_bicote.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/papa_bicote.png" media-type="image/png" />
+		<item id="papa_bicote-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/papa_bicote%402x.png" media-type="image/png" />
+		<item id="papa_cejas.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/papa_cejas.png" media-type="image/png" />
+		<item id="papa_cejas-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/papa_cejas%402x.png" media-type="image/png" />
+		<item id="prota-boca.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/prota-boca.png" media-type="image/png" />
+		<item id="prota-boca-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/prota-boca%402x.png" media-type="image/png" />
+		<item id="protgonista.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/protgonista.png" media-type="image/png" />
+		<item id="protgonista-2x.png" href="html/animacion_01_v2/Assets/animacio%CC%81n%2001-v2.hyperesources/protgonista%402x.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="background-cuento.jpg" href="image/background-cuento.jpg" media-type="image/jpeg" />
+		<item id="Portada.jpg" href="image/Portada.jpg" media-type="image/jpeg" properties="cover-image" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="Cuento_final-Justificado-UNAPAGINA-1" />
+	</spine>
+</package>

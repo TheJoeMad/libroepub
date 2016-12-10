@@ -1,0 +1,115 @@
+@font-face {
+	font-family:"Trebuchet MS";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TrebuchetMS.ttf");
+}
+@font-face {
+	font-family:"Trebuchet MS";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/TrebuchetMS-Italic.ttf");
+}
+@font-face {
+	font-family:"Trebuchet MS";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/TrebuchetMS-Italic.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div.Marco-de-texto-b-sico {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	line-height:1;
+	white-space:nowrap;
+}
+span.CharOverride-1 {
+	color:#757575;
+	font-family:"Trebuchet MS", sans-serif;
+	font-size:300px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#5386c2;
+	font-family:"Trebuchet MS", sans-serif;
+	font-size:320px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000 {
+	height:768px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	width:1024px;
+}
+#_idContainer001 {
+	height:31px;
+	left:502px;
+	position:absolute;
+	top:682px;
+	width:32px;
+}
+#_idContainer002 {
+	height:55px;
+	left:746px;
+	position:absolute;
+	top:191px;
+	width:82px;
+}
+#_idContainer003 {
+	height:291px;
+	left:600px;
+	position:absolute;
+	top:277px;
+	width:320px;
+}
+#_idHTMLPageItem000 {
+	-webkit-transform:translate(-76.559px,-35.245px) rotate(0.000deg) skew(0.000deg) scale(0.461,0.461);
+	-webkit-transform-origin:0% 0%;
+	height:1463px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-76.559px,-35.245px) rotate(0.000deg) skew(0.000deg) scale(0.461,0.461);
+	transform-origin:0% 0%;
+	width:1312px;
+	border-width:0px;
+}
+#_idContainer004 {
+	height:100px;
+	width:100px;
+	background-image:url(../image/4.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	left:56px;
+	overflow:hidden;
+	position:absolute;
+	top:73px;
+	width:528px;
+}
+img._idGenObjectAttribute-1 {
+	height:100%;
+	min-width:100%;
+	width:100%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectAttribute-3 {
+	height:585px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:528px;
+}
